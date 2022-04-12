@@ -1,8 +1,6 @@
 name: flutter_project_codelab
 description: A new Flutter project.
 
-
-
 version: 1.0.0+1
 
 environment:
@@ -21,7 +19,6 @@ dev_dependencies:
   flutter_lints: ^1.0.0
 
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -42,5 +39,3 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  
-
